@@ -31,13 +31,13 @@ Make sure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/search-dropdown.git
+   git clone https://github.com/your-username/vanilla-auto-search.git
    ```
 
 2. Navigate into the project directory:
 
    ```bash
-   cd search-dropdown
+   cd vanilla-auto-search
    ```
 
 3. Install dependencies (if any; otherwise skip this step):
